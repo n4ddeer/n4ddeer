@@ -1,3 +1,5 @@
+# Nadia | RTIS student at SIT-DigiPen
+
 - 👋 Hi, I’m @n4ddeer
 - 👀 I’m interested in design and newly investing time in coding
 - 🌱 I’m currently learning Python as a beginner
