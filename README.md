@@ -2,7 +2,7 @@
 
 I'm studying Real-Time Interactive Simulation (RTIS) at SIT-DigiPen in Singapore. Before this I studied apparel design, which is why I care about how things look and how they get made.
 
-I work with C++, OpenGL, CI/CD and dev tools, and real-time interactive simulation.
+My coursework and team projects use C++, OpenGL and CI/CD.
 
 ## Projects
 
